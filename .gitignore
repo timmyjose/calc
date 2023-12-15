@@ -1,2 +1,4 @@
 /target
 Cargo.lock
+npm-cache
+node_modules
